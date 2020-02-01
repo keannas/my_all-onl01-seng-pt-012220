@@ -1,4 +1,4 @@
 require 'pry'
 
-def 
+def my_all
 
